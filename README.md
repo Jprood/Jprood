@@ -1,7 +1,7 @@
 ### 👋 Oi sou o João 👋
 
 - 📚 Atualmente estou participando do bootcamp da Generation Brasil
-- 🌱 No momento estou aprendendo HTML,CSS,TypeScript
+- 🌱 No momento estou aprendendo HTML, CSS, TypeScript
 - 📍  Residente de São Paulo/SP
 - 😄 Pronomes: (ele/dele)(he/him)
 
