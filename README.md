@@ -1,8 +1,11 @@
 ### 👋 Oi sou o João 👋
 
-- 📚 Atualmente estou estudando na Generation Brasil
-- 🌱 No momento estou aprendendo a linguagem Java
+- 📚 Atualmente estou participando do bootcamp da Generation Brasil
+- 🌱 No momento estou aprendendo 
+- 📍  Residente de São Paulo/SP
 - 😄 Pronomes: (ele/dele)(he/him)
+
+  ##
 
 <div>
   <a href="https://github.com/Jprood">
