@@ -1,6 +1,6 @@
 ### 👋 Oi sou o João 👋
 
-- 📚 Atualmente estou participando do bootcamp da Generation Brasil
+- 📚 conclui o bootcamp da Generation Brasil de Dev. JAVA júnior Full Stack
 - 🌱 No momento estou aprendendo HTML, CSS, TypeScript
 - 📍  Residente de São Paulo/SP
 - 😄 Pronomes: (ele/dele)(he/him)
